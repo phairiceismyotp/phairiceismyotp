@@ -1,4 +1,4 @@
-# phairiceismyotp
+# phairiceismyotp (or3zz - Nguyen Tin)
 
 ## Câu chuyện đằng sau cái tên
 
@@ -24,5 +24,9 @@ Mặc dù luôn lắng nghe phản hồi từ người dùng, tác giả luôn d
 * **Bảo trì:** Tác giả không có nhiều thời gian để tiến hành theo dõi và sửa lỗi liên tục.
 * **Khuyến khích tái cấu trúc bằng AI:** Tác giả rất khuyến khích cộng đồng ném mã nguồn của các dự án này lên các hệ thống AI chuyên dụng (Codex hay Claude) để tự chế tác, tối ưu hóa hoặc sửa đổi theo nhu cầu cá nhân.
 * **Giấy phép sử dụng:** Tất cả các mã nguồn, dự án phái sinh hoặc bản fork phát hành lại từ kho lưu trữ này bắt buộc phải tuân thủ giấy phép chung được áp dụng cho toàn bộ Repositories: **GNU Affero General Public License v3 (AGPL-3.0-only)**.
+
+## Credit và lời cảm ơn
+* **Ảnh đại diện:** Ảnh đại diện là commission phairiceismyotp đặt riêng được vẽ bởi Partry (Phát Thái)
+* **Lời cảm ơn:** Để các tiện ích trong đây có thể hoạt động và đăng opensource lên đây không thể không nhắc đến công sức của những người bạn, cộng sự, tiền bối đi trước, các bạn chung shipdom PhaiRice đã bỏ chút thời gian quý giá để kiểm tra, đánh giá, phản biện, hỗ trợ sửa lỗi và đề xuất tính năng. **phairiceismyotp** được xuất hiện trên đây là công sức và nỗ lực của tất cả mọi người. Tác giả xin chân thành cảm ơn. 
 
 *Tất cả vì OTP, chắc chắn là như vậy!*
