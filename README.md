@@ -4,7 +4,7 @@
 
 Cái tên **phairiceismyotp** xuất phát từ niềm đam mê dành cho cặp đôi **Phainon x Castorice** (PhaiRice) trong tựa game *Honkai: Star Rail* được phát hành bởi miHoYo. 
 
-Tài khoản này được tạo ra với tôn chỉ duy nhất: **Cống hiến cho cộng đồng thông qua tiện ích**. Trong một shipdom, vì không viết được fanfiction hay vẽ fanart, tác giả chọn lập trình để phục vụ người dùng. Bản thân nền tảng AO3 vốn giữ cấu trúc rất tối giản và đôi khi thiếu đi những tiện ích cần thiết cho độc giả nói chung. Vì vậy, các công cụ tại đây ra đời nhằm bổ sung và hoàn thiện những thiếu sót đó, mang lại không gian trải nghiệm trọn vẹn hơn.
+Tài khoản này được tạo ra với tôn chỉ duy nhất: **Cống hiến cho cộng đồng thông qua tiện ích**. Trong một shipdom, vì không viết được fanfiction hay vẽ fanart, tác giả chọn lập trình để phục vụ người dùng. Bản thân nền tảng AO3 vốn giữ cấu trúc rất tối giản và đôi khi thiếu đi những tiện ích cần thiết cho độc giả nói chung. Vì vậy, các công cụ tại đây ra đời nhằm bổ sung và hoàn thiện những thiếu sót đó.
 
 ## Định hướng
 
