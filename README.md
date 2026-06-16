@@ -23,7 +23,7 @@ Mặc dù luôn lắng nghe phản hồi từ người dùng, tác giả luôn d
 * **Tính ổn định của mã nguồn:** Do các công cụ hoạt động bằng cách can thiệp và phụ thuộc vào cấu trúc giao diện DOM của AO3, mã nguồn ngay từ đầu đã không ổn định và **hoàn toàn có thể chết bất đắc kỳ tử** khi AO3 cập nhật hệ thống.
 * **Bảo trì:** Tác giả không có nhiều thời gian để tiến hành theo dõi và sửa lỗi liên tục.
 * **Khuyến khích tái cấu trúc bằng AI:** Tác giả rất khuyến khích cộng đồng đưa mã nguồn của các dự án này lên các hệ thống AI chuyên dụng (Codex hay Claude) để tự chế tác, tối ưu hóa hoặc sửa đổi theo nhu cầu cá nhân.
-* **Zero-Trust và kiểm thử**: Tất cả công cụ được đăng lên đều là mã nguồn mở. Tuy nhiên, tác giả luôn khuyến khích kiểm tra an toàn bằng các hệ thống AI chuyên dụng (tham khảo file `AI_AUDIT_GUIDE.md` và kiểm thử) trước khi sử dụng trên tinh thần **KHÔNG TIN AI CẢ**, bản thân người làm ra còn chưa dám tin thì người dùng đừng tin ai hết.
+* **Zero-Trust và kiểm thử**: Tất cả công cụ được đăng lên đều là mã nguồn mở. Tuy nhiên, tác giả luôn khuyến khích kiểm tra an toàn bằng các hệ thống AI chuyên dụng (tham khảo file `AI_AUDIT_GUIDE.md`) trước khi sử dụng trên tinh thần **KHÔNG TIN AI CẢ**, bản thân người làm ra còn chưa dám tin thì người dùng đừng tin ai hết.
 * **Giấy phép sử dụng:** Tất cả các mã nguồn, dự án phái sinh hoặc bản fork phát hành lại từ kho lưu trữ này bắt buộc phải tuân thủ giấy phép chung được áp dụng cho toàn bộ Repositories: **GNU Affero General Public License v3 (AGPL-3.0-only)**.
 
 ## Credit và lời cảm ơn
