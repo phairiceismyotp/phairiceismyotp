@@ -10,7 +10,7 @@ Tài khoản này được tạo ra với tôn chỉ duy nhất: **Cống hiến
 
 Các tiện ích được xây dựng với các đặc tính chung:
 * **Cốt lõi:** Tập trung vào tối ưu hóa giao diện (**UI**) và trải nghiệm người dùng (**UX**), cái mà chúng ta hay gọi là Front End.
-* **Giới hạn kỹ thuật:** Được thiết kế để chạy độc lập trên trình duyệt nhằm tiết kiệm tài nguyên. Mình **rất kém về Backend** nên các dự án dù thế nào cũng không bao giờ có Server hay DB phức tạp.
+* **Giới hạn kỹ thuật:** Được thiết kế để chạy độc lập trên trình duyệt nhằm tiết kiệm tài nguyên. Mình **rất kém về Back End** nên các dự án dù thế nào cũng không bao giờ có Server hay DB phức tạp.
 
 ## Nguyên tắc phát triển & Văn hóa cộng đồng
 
